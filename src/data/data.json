@@ -1,0 +1,68 @@
+[
+  {
+    "uuid": "1",
+    "category": "production",
+    "ownerDetails": {
+      "firstName": "Colin",
+      "lastName": "McCandlish",
+      "email": "colin.mccandlish@stiga.com",
+      "firebaseUuid": "fowerjfhggbre945849559458",
+      "ownerUuid": "ojoenbnbonb9048543583958"
+    },
+    "deviceDatas": {
+      "deviceType": "Stiga A 1500",
+      "deviceName": "Roberto",
+      "robotType": "Autonomous Robot",
+      "isEnabled": true,
+      "deviceUuid": "foijnfgojngoerng984350757643",
+      "serialNumber": "343849734MIDJDI",
+      "macRobot": "8C:4B:84394834",
+      "macBase": "E8:9O:09re09rr9",
+      "firmwareVersion": "0.0.2.99"
+    }
+  },
+  {
+    "uuid": "2",
+    "category": "staging",
+    "ownerDetails": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@stiga.com",
+      "firebaseUuid": "ijfirfr098304304934",
+      "ownerUuid": "fijfifj485035835835"
+    },
+    "deviceDatas": {
+      "deviceType": "Stiga A 1000",
+      "deviceName": "Alberto",
+      "robotType": "Robot",
+      "isEnabled": false,
+      "deviceUuid": "fdijfdfijgf094039039434",
+      "serialNumber": "78478743DGTY",
+      "macRobot": "7F:0P:MHUHU",
+      "macBase": "R6:9I:IJDIJD",
+      "firmwareVersion": "0.0.3.88"
+    }
+  },
+  {
+    "uuid": "3",
+    "category": "test",
+    "ownerDetails": {
+      "firstName": "Marc",
+      "lastName": "Jones",
+      "email": "marc.jones@stiga.com",
+      "firebaseUuid": "òpdkf5948548545",
+      "ownerUuid": "cnxjcnxjc09094545945"
+    },
+    "deviceDatas": {
+      "deviceType": "Stiga A 900",
+      "deviceName": "Giacomo",
+      "robotType": "Device Robot",
+      "isEnabled": true,
+      "deviceUuid": "xxxxxx09232039203923",
+      "serialNumber": "32543233DIHSGHDF",
+      "macRobot": "9M:7N:8734344",
+      "macBase": "Z7:P0:figjgifghhg",
+      "firmwareVersion": "0.0.1.34"
+    }
+  }
+]
